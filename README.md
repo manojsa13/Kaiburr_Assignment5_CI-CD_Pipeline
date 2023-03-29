@@ -1,6 +1,16 @@
 ## CI/CD Pipeline Project
 
 
-![image](https://user-images.githubusercontent.com/63357275/228556827-1b1d2d3f-b755-4876-bd07-7ed816c3bad3.png)
+![image](https://user-images.githubusercontent.com/63357275/228558186-e676ec7c-8aff-4719-b06c-867034c180cc.png)
 
 ![image](https://user-images.githubusercontent.com/63357275/228557688-6b3440eb-df85-4410-b461-120a1b923d24.png)
+
+![Screenshot 2023-03-29 191653](https://user-images.githubusercontent.com/63357275/228560082-d8291e67-a6a5-4640-b72f-6a9c4f31a861.png)
+
+![image](https://user-images.githubusercontent.com/63357275/228560752-bea4db64-b1a6-4edc-9535-b1f6f40bcccc.png)
+
+![image](https://user-images.githubusercontent.com/63357275/228560981-1416ad89-3acd-4430-8eda-5f94853fc7a2.png)
+
+![image](https://user-images.githubusercontent.com/63357275/228561269-442ee326-1db5-4f38-8bd8-fb22b2591979.png)
+
+![image](https://user-images.githubusercontent.com/63357275/228561772-f685b795-972a-4161-a5a1-bbdc7c694254.png)
